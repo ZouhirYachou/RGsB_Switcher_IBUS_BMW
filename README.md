@@ -1,4 +1,4 @@
-# RGsB Switcher fopr IBUS BMW E series
+# RGsB Switcher for IBUS BMW E series
 
 This PCB is meant to be used with this RPI Hat https://github.com/ZouhirYachou/RPI5_RGsB_HAT<br/>
 
