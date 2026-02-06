@@ -8,10 +8,10 @@ This PCB is meant to be used with this RPI Hat https://github.com/ZouhirYachou/R
 
 
 ## Purpose / Features
-- Reads IBUS messages and power on the Arduino when IBUS activity is dectected (When the car is open)
+- Reads IBUS messages and power on the Arduino when IBUS activity is dectected
 - Only sends power to the RPI when IGN POS2 is dectected (Same as original Radio/NAV)
 - When RPI input is selected, with the "PHONE" button, some radio buttons are used to control the Carplay / Android Auto on the RPI
-- Radio buttons that changes the display of the original NAV, sends you back to default display (RPI input is OFF)
+- Radio buttons that changes the display of the original NAV, sends you back to default display (Analog RGB RPI output is set to OFF)
 - Only reads IBUS, does not sends messages
 - Not modification required to the original system as it is installed between the NAV and the CID (NAV Display)
   
@@ -55,7 +55,7 @@ This explains how this PCB is connected to the car and the RPI<br/>
 
 
 ## Safety / Warnings
-- Tested inside the car for few hours while driving, nothing blew up, yes, but the design can be improved to be more resilient to car electric systems.
+- Tested inside the car for 2 weeks, nothing blew up, yet, but the design can be improved to be more resilient for car electric systems.
 
 
 ## Todo list
