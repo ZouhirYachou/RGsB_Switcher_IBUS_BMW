@@ -78,3 +78,5 @@ Once installed
 ## References
 - https://www.e46fanatics.com/threads/bmw-on-board-monitor-without-navigation-unit.1303552
 - https://github.com/f-io/LIVI
+- https://bmwteka.com/wds/en/e85/e82460cf
+- https://bmwteka.com/wds/en/e85/1b7f9876
