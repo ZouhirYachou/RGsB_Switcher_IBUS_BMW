@@ -42,9 +42,16 @@ It requires the following fasteners:
 </p>
 
 <p align="center">
-  <img src="images/PXL_20260120_130250054.jpg" width="800">
+  <img src="images/RGsB_Switcher_diagram.drawio.png" width="800">
 </p>
 
+
+## Wiring diagram
+This explains how this PCB is connected to the car and the RPI
+
+<p align="center">
+  <img src="images/PXL_20260120_130250054.jpg" width="800">
+</p>
 
 
 ## Safety / Warnings
